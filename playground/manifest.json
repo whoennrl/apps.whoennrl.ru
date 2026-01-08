@@ -1,7 +1,7 @@
 {
   "name": "WhoPlayground",
   "short_name": "WhoPlayground",
-  "start_url": "https://akkenrl.com/playground",
+  "start_url": "https://apps.whoennrl.ru/playground",
   "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
